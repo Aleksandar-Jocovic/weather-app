@@ -27,7 +27,7 @@ main {
 
 .search-box {
   margin: 0 0 75px;
-  width: 100%;
+  width: 50%;
   border: 5px solid rgb(156, 255, 156);
 }
 
